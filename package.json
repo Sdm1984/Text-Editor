@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "idb": "^7.0.1"
+  },
+  "devDependencies": {
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
