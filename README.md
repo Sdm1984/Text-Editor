@@ -87,7 +87,7 @@ The following image shows the application's IndexedDB storage:
 
 ### Deployment: 32%
 
-* Application deployed to Heroku at live URL with build scripts - https://git.heroku.com/smathistexteditor.git
+* Application deployed to Heroku at live URL with build scripts - 
 
 * Application loads with no errors
 
