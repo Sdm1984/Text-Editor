@@ -52,6 +52,3 @@ console.log(`local storage: ${localData}`)
     });
   }
 }
-© 2022 GitHub, Inc.
-Terms
-P
