@@ -1,10 +1,10 @@
 {
-  "name":"JATE",
+  "name": "JATE",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start:dev": "concurrently \"cd client && npm run build\" \"cd server && npm run server\" ",
+    "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
     "start": "npm run build && cd server && node server.js",
     "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && npm run build",
@@ -23,3 +23,16 @@
     "nodemon": "^2.0.4"
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
