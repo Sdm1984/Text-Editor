@@ -8,6 +8,12 @@ Packages Installed and Programs Used
 IndexedDB database - `idb`, which is a lightweight wrapper around the IndexedDB API. 
 Heroku - Deployed link
 
+### Deployment: 32%
+
+* Application deployed to Heroku at live URL with build scripts and loads with no errors- https://stephstexteditor.herokuapp.com/
+
+* Application GitHub URL submitted and contains application code -https://github.com/Sdm1984/Text-Editor
+
 ## User Story
 
 ```md
@@ -84,16 +90,5 @@ The following image shows the application's IndexedDB storage:
   * Application must have a generated `manifest.json` using the `WebpackPwaManifest` plug-in
 
   * Can be installed as a Progressive Web Application
-
-### Deployment: 32%
-
-* Application deployed to Heroku at live URL with build scripts - 
-
-* Application loads with no errors
-
-* Application GitHub URL submitted -https://github.com/Sdm1984/Text-Editor/settings/pages
-
-* GitHub repo contains application code
-
 
 
